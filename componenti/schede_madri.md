@@ -1,0 +1,5 @@
+2113203
+2101045
+Asus B560M WiFi
+MSI P482T Ultra
+Asrock RK 2025
